@@ -4,13 +4,13 @@ I'm a student who is interested in **mobile development**
 
 ### 📞 How to Contact Me:
 
-- Discord: **@bbroklyn**
 - Steam: [My Profile](https://steamcommunity.com/id/thebroklyn/)
 - Telegram: Only for **friends/cooperation**
 
 ### 🧠 Currently working on these projects:
 - [Telegram bot that works with **Disk API**](https://github.com/bbroklyn/Desire-Telegram)
-- **C++** Clicker-Game with level system and items
+- **Java** Task&Time Manager
+- [Own resume website](https://github.com/bbroklyn/site)
 
 
 ### 📖 I work with these languages:
@@ -24,13 +24,12 @@ data class Student(
     val name: String = "broklyn",
     val about: String = "I'm a student who is interested in **mobile development**",
     val contact: Map<String, String> = mapOf(
-        "Discord" to "@bbroklyn",
         "Steam" to "https://steamcommunity.com/id/thebroklyn/",
         "Telegram" to "Only for friends/cooperation"
     ),
     val projects: List<String> = listOf(
         "Telegram bot that works with Disk API - https://github.com/bbroklyn/Desire-Telegram",
-        "C++ Clicker-Game with level system and items"
+        "Website  - https://github.com/bbroklyn/site"
     ),
     val languages: List<String> = listOf("Kotlin", "C++", "C#")
 )
