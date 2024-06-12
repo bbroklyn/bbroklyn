@@ -7,11 +7,6 @@ I'm a student who is interested in **mobile // backend development**.
 - Steam: [My Profile](https://steamcommunity.com/id/thebroklyn/).
 - Telegram: Only for **friends/cooperation**.
 
-### 🧠 Currently working on these projects:
-
-- Encryptim - Encrypted messenger.
-- resume website - My own website about me.
-
 ### 📖 I work with these tools:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
