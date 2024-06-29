@@ -47,21 +47,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbroklyn&layout=donut&theme=dark#gh-dark-mode-only)
 
-### 📖 I work with these tools:
-
-- **Languages**: Kotlin, Java, TypeScript, C++
-- **Databases**: PostgreSQL, MySQL, Microsoft SQL Server
-- **Frameworks/Libraries**: Express.js, React, Node.js, Material-UI
-- **IDEs**: Android Studio, IntelliJ IDEA, Rider, Visual Studio Code, Aqua, RustRover
-- **Build Tools**: Gradle, Maven
-- **Operating Systems**: Linux (Ubuntu, Manjaro, Arch)
-
 ---
 
 ### My released projects:
 
-- Project A: Description of project A.
-- Project B: Description of project B.
+- [**PasswordArmor**](https://www.npmjs.com/package/passwordarmor): Typescript library
+- [**Desire**](https://github.com/bbroklyn/Desire-Telegram): Telegram bot for working with Yandex Disk
+- [**Task-Manager**](https://github.com/bbroklyn/Task-Manager): TODO application for keeping you active and tracking your tasks
+- [**Weathy-web**](https://github.com/bbroklyn/Weathy-web-weather-checker) (Web application for monitoring and analyzing weather conditions)
 
 ## Useful stuff:
 
