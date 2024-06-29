@@ -49,13 +49,15 @@
 
 ---
 
-### My released projects:
+### 💻 My released projects:
 
 - [**PasswordArmor**](https://www.npmjs.com/package/passwordarmor): Typescript library
 - [**Desire**](https://github.com/bbroklyn/Desire-Telegram): Telegram bot for working with Yandex Disk
 - [**Task-Manager**](https://github.com/bbroklyn/Task-Manager): TODO application for keeping you active and tracking your tasks
 - [**Weathy-web**](https://github.com/bbroklyn/Weathy-web-weather-checker) (Web application for monitoring and analyzing weather conditions)
 
-## Useful stuff:
+---
+
+### 🗣 Useful stuff:
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9298532ef18ee03ef9b2f6da1e530e3c&theme=dark#gh-dark-mode-only)
