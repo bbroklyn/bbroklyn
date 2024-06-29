@@ -1,13 +1,8 @@
 # Vlad | broklyn | Konovalow
 
-I'm a student who is interested in **mobile // backend development**.
+### 🚀 Backend Developer and Student.
 
-### 📞 How to Contact Me:
-
-- Steam: [My Profile](https://steamcommunity.com/id/thebroklyn/).
-- Telegram: Only for **friends/cooperation**.
-
-### 📖 I work with these tools:
+### Various languages/frameworks and utilities that I use or have used in the past:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,21 +13,56 @@ I'm a student who is interested in **mobile // backend development**.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-![Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Gradle](https://img.shields.io/badge/gradle-02303A?logo=gradle&logoWidth=25)
 ![Static Badge](https://img.shields.io/badge/Maven-02303A?&logoWidth=25)
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![OC](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
+### 📞 How to Contact Me:
+
+- Telegram: Only for **friends/cooperation**
+
+---
+
+### 📊 Statistics
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bbroklyn&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbroklyn&layout=donut&theme=dark#gh-dark-mode-only)
+
+### 📖 I work with these tools:
+
+- **Languages**: Kotlin, Java, TypeScript, C++
+- **Databases**: PostgreSQL, MySQL, Microsoft SQL Server
+- **Frameworks/Libraries**: Express.js, React, Node.js, Material-UI
+- **IDEs**: Android Studio, IntelliJ IDEA, Rider, Visual Studio Code, Aqua, RustRover
+- **Build Tools**: Gradle, Maven
+- **Operating Systems**: Linux (Ubuntu, Manjaro, Arch)
+
+---
+
+### My released projects:
+
+- Project A: Description of project A.
+- Project B: Description of project B.
+
+## Useful stuff:
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9298532ef18ee03ef9b2f6da1e530e3c&theme=dark#gh-dark-mode-only)
