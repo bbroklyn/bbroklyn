@@ -5,9 +5,9 @@
 ### Various languages/frameworks and utilities that I use or have used in the past:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,4 +60,6 @@
 
 ### 🗣 Useful stuff:
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9298532ef18ee03ef9b2f6da1e530e3c&theme=dark#gh-dark-mode-only)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9298532ef18ee03ef9b2f6da1e530e3c&theme=dark#gh-dark-mode-only)](https://gist.github.com/bbroklyn/9298532ef18ee03ef9b2f6da1e530e3c)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbroklyn&repo=configs&theme=dark#gh-dark-mode-only)](https://github.com/bbroklyn/configs)
