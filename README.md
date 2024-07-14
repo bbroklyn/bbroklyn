@@ -2,6 +2,12 @@
 
 ### 🚀 Backend Developer and Student.
 
+---
+
+#### Channel with my thoughts/advice and news https://t.me/konovalowthoughts
+
+---
+
 ### Various languages/frameworks and utilities that I use or have used in the past:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
